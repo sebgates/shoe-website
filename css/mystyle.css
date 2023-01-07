@@ -1,0 +1,11 @@
+/* Add your own CSS under here */
+
+footer {
+    background-color: green;
+    padding: 20px;
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
